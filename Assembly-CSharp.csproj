@@ -64,11 +64,14 @@
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\InputManager.cs" />
     <Compile Include="Assets\cinemachinePOV.cs" />
+    <Compile Include="Assets\materials\spawner.cs" />
     <Compile Include="Assets\Extensions\unitycoder_com\DemoRunTime\Scripts\NormalMapMakerRuntimeDemo.cs" />
     <Compile Include="Assets\scripts extras\billboard.cs" />
     <Compile Include="Assets\Toby Fredson\The Toby Foliage Engine\(TTFE)_Core\Resources\(TTFE) GLOBAL CONTROLLER\Scripts\TobyShaderValuesModel.cs" />
     <Compile Include="Assets\PSXShaderKit\Demo\PSXExample_CameraMovement.cs" />
+    <Compile Include="Assets\materials\poolobject.cs" />
     <Compile Include="Assets\Toby Fredson\The Toby Foliage Engine\(TTFE)_Demo\Scripts\FPSController.cs" />
+    <Compile Include="Assets\materials\ballDestroy.cs" />
     <Compile Include="Assets\PSXShaderKit\Scripts\PSXPostProcessEffect.cs" />
     <Compile Include="Assets\Toby Fredson\The Toby Foliage Engine\(TTFE)_Core\Resources\(TTFE) GLOBAL CONTROLLER\Scripts\TobyGlobalShadersController.cs" />
     <Compile Include="Assets\PSXShaderKit\Scripts\PSXShaderManager.cs" />
